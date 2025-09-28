@@ -6,4 +6,4 @@ This is a simple calculator project for practice.
 
 1. Clone this repo
    git clone <repo-url>
-   cd calculator-cli
+2. cd calculator-cli
