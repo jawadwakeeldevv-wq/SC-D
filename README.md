@@ -7,4 +7,4 @@ This is a simple calculator project for practice.
 1. Clone this repo
    git clone <repo-url>
 2. cd calculator-cli
-3. contributer JK
+3. contributer Jawad wakeel
