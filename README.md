@@ -8,4 +8,3 @@ This is a simple calculator project for practice.
    git clone <repo-url>
 2. cd calculator-cli
 3. contributer Jawad wakeel
-4. Again push
